@@ -14,8 +14,8 @@ export default function NavBar(){
                         <div className="flex"><button className="text-[18px] text-white">Pricing</button><img src="/Down Arrow.svg" alt="down arrow" className="w-[29px]"/></div>
                     </div>
                     <div className="flex gap-[24px]">
-                        <button className="bg-[#FFE492] w-[126px] h-[60px] text-[18px] rounded-[8px] text-[#043873] font-[inter] font-medium">Login</button>
-                        <button className="bg-[#4F9CF9] w-[227px] h-[60px] text-[18px] rounded-[8px] text-white font-[inter] font-medium flex justify-center gap-2.5 items-center">Try Whitepace free <img src="right_arrow.svg" alt="right_arrow" /></button>
+                        <button className="bg-[#FFE492] w-[126px] h-[60px] text-[18px] rounded-[8px] text-[#043873] font-medium">Login</button>
+                        <button className="bg-[#4F9CF9] w-[227px] h-[60px] text-[18px] rounded-[8px] text-white font-medium flex justify-center gap-2.5 items-center">Try Whitepace free <img src="right_arrow.svg" alt="right_arrow" /></button>
                     </div>
                 </div>
             </div>
