@@ -14,26 +14,26 @@ export default function Footer(){
                 </div>
                 <div className="flex flex-col justify-between max-w-[205px] max-h-32">
                     <h1 className="text-white text-[18px] font-bold">Product</h1>
-                    <span className="text-white text-[16px] font-normal">Overview</span>
-                    <span className="text-white text-[16px] font-normal">Pricing</span>
-                    <span className="text-white text-[16px] font-normal">Customer stories</span>
+                    <span className="text-white text-[16px] font-normal hover:text-[#FFE492] transition-colors">Overview</span>
+                    <span className="text-white text-[16px] font-normal hover:text-[#FFE492] transition-colors">Pricing</span>
+                    <span className="text-white text-[16px] font-normal hover:text-[#FFE492] transition-colors">Customer stories</span>
                 </div>
                 <div className="flex flex-col justify-between max-w-[205px] max-h-32">
                     <h1 className="text-white text-[18px] font-bold">Resources</h1>
-                    <span className="text-white text-[16px] font-normal">Blog</span>
-                    <span className="text-white text-[16px] font-normal">Guides & tutorials</span>
-                    <span className="text-white text-[16px] font-normal">Help center</span>
+                    <span className="text-white text-[16px] font-normal hover:text-[#FFE492] transition-colors">Blog</span>
+                    <span className="text-white text-[16px] font-normal hover:text-[#FFE492] transition-colors" >Guides & tutorials</span>
+                    <span className="text-white text-[16px] font-normal hover:text-[#FFE492] transition-colors">Help center</span>
                 </div>
                 <div className="flex flex-col justify-between max-w-[205px] max-h-32">
-                    <h1 className="text-white text-[18px] font-bold">Company</h1>
-                    <span className="text-white text-[16px] font-normal">About us</span>
-                    <span className="text-white text-[16px] font-normal">Careers</span>
-                    <span className="text-white text-[16px] font-normal">Media kit</span>
+                    <h1 className="text-white text-[18px] font-bold ">Company</h1>
+                    <span className="text-white text-[16px] font-normal hover:text-[#FFE492] transition-colors">About us</span>
+                    <span className="text-white text-[16px] font-normal hover:text-[#FFE492] transition-colors">Careers</span>
+                    <span className="text-white text-[16px] font-normal hover:text-[#FFE492] transition-colors">Media kit</span>
                 </div>
                 <div className="flex flex-col justify-between max-w-[259px] min-h-[182px]">
                     <h1 className="text-white text-[28px] font-bold">Try It Today</h1>
                     <span className="text-white text-[16px] font-normal">Get started for free. Add your whole team as your needs grow.</span>
-                    <button className="bg-[#4F9CF9] max-w-[186px] h-[60px] text-[18px] rounded-[8px] text-white font-normal flex justify-center gap-2.5 items-center">Start today<img src="right_arrow.svg" alt="right_arrow" /></button>
+                    <button className="bg-[#4F9CF9] max-w-[186px] h-[60px] text-[18px] rounded-[8px] text-white font-normal flex justify-center gap-2.5 items-center hover:scale-105 transform transition-transform">Start today<img src="right_arrow.svg" alt="right_arrow" /></button>
                 </div>
             </div>
             

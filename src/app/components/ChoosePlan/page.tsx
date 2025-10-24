@@ -22,7 +22,7 @@ export default function ChoosePlan(){
                         <span className="text-[16px] font-normal text-[#212529] flex"><img src="/check_black.svg" alt="check" className="mr-[19px]"/>Customize Home dashboard and access <br /> extra widgets</span>
                         <span className="text-[16px] font-normal text-[#212529] flex"><img src="/check_black.svg" alt="check" className="mr-[19px]"/>Connect primary Google Calendar <br />account</span>
                         <span className="text-[16px] font-normal text-[#212529] flex"><img src="/check_black.svg" alt="check" className="mr-[19px]"/>Add due dates, reminders, and <br />notifications to your tasks</span>
-                        <button className="w-[166px] h-[60px] text-[18px] rounded-[8px] text-[#212529] font-medium flex justify-center gap-2.5 items-center border border-[#FFE492]">Get Started</button>
+                        <button className="w-[166px] h-[60px] text-[18px] rounded-[8px] text-[#212529] font-medium flex justify-center gap-2.5 items-center border border-[#FFE492] hover:bg-[#FFE492] transition-colors">Get Started</button>
                     </div>
                 </div>
                 <div className="bg-[#043873] min-w-[472.333px] rounded-[10px] flex flex-col justify-center items-center">
@@ -36,7 +36,7 @@ export default function ChoosePlan(){
                         <span className="text-[18px] font-medium text-white flex"><img src="/check_gold.svg" alt="check" className="mr-[19px]"/>Customize Home dashboard and access <br /> extra widgets</span>
                         <span className="text-[18px] font-medium text-white flex"><img src="/check_gold.svg" alt="check" className="mr-[19px]"/>Connect primary Google Calendar <br />account</span>
                         <span className="text-[18px] font-medium text-white flex"><img src="/check_gold.svg" alt="check" className="mr-[19px]"/>Add due dates, reminders, and <br />notifications to your tasks</span>
-                        <button className="bg-[#4F9CF9] w-[166px] h-[60px] text-[18px] rounded-[8px] text-white font font-medium flex justify-center gap-2.5 items-center">Get Started</button>
+                        <button className="bg-[#4F9CF9] w-[166px] h-[60px] text-[18px] rounded-[8px] text-white font font-medium flex justify-center gap-2.5 items-center border border-[#4F9CF9] hover:bg-[#043873] transition-colors">Get Started</button>
                     </div>
                 </div>
                 <div className="min-w-[472.333px] flex flex-col justify-center items-center ">
@@ -50,7 +50,7 @@ export default function ChoosePlan(){
                         <span className="text-[16px] font-normal text-[#212529] flex"><img src="/check_black.svg" alt="check" className="mr-[19px]"/>Customize Home dashboard and access <br /> extra widgets</span>
                         <span className="text-[16px] font-normal text-[#212529] flex"><img src="/check_black.svg" alt="check" className="mr-[19px]"/>Connect primary Google Calendar <br />account</span>
                         <span className="text-[16px] font-normal text-[#212529] flex"><img src="/check_black.svg" alt="check" className="mr-[19px]"/>Add due dates, reminders, and <br />notifications to your tasks</span>
-                        <button className="w-[166px] h-[60px] text-[18px] rounded-[8px] text-[#212529] font-medium flex justify-center gap-2.5 items-center border border-[#FFE492]">Get Started</button>
+                        <button className="w-[166px] h-[60px] text-[18px] rounded-[8px] text-[#212529] font-medium flex justify-center gap-2.5 items-center border border-[#FFE492] hover:bg-[#FFE492] transition-colors">Get Started</button>
                     </div>
                 </div>
 
